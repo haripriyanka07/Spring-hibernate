@@ -1,0 +1,5 @@
+
+i	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ
+f	java:S116"QRename this field "Rating" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿå¨¿
+f	java:S116"QRename this field "Vendor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þõö»
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ü‚•â
